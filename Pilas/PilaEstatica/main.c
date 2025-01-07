@@ -1,3 +1,5 @@
+//Implementación de una Pila Estática, cuyo ejemplo ingresa un número y lo convierte a su binario utilizando una Pila.
+
 #include<stdio.h>
 #include "PilaEstática.h"
 

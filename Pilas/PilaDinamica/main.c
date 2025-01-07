@@ -1,3 +1,5 @@
+//Implementación de una Pila Dinámica. Este ejemplo hace que se ingrese un número y lo convierta a su binario utilizando una Pila.
+
 #include<stdio.h>
 #include "PilaDinámica.h"
 
